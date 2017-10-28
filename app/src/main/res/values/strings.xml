@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Lab 1.3 Loan Calculater</string>
+    <string name="vehicle_price">Vechicle Price</string>
+    <string name="downpayment">Down Payment</string>
+    <string name="interest_rate">Interest Rate</string>
+    <string name="repayment">Re-payment (month)</string>
+    <string name="total_interest">Total Interest</string>
+    <string name="total_loan">Total Loan</string>
+    <string name="month_payment">Month Payment</string>
+    <string name="salary">Salary</string>
+    <string name="accept">Accept Loan Payment</string>
+    <string name="reject">Reject Loan Payment</string>
+</resources>
